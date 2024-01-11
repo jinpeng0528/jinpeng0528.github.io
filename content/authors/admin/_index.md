@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinpeng Chen 陈锦芃
+title: Jinpeng Chen
 
 # Name pronunciation (optional)
 name_pronunciation: ''

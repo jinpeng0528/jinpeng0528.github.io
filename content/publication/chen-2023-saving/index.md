@@ -2,7 +2,7 @@
 title: 'Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution
   in Class-Incremental Semantic Segmentation'
 authors:
-- Jinpeng Chen
+- admin
 - Runmin Cong
 - Luo Yuxuan
 - Horace Ip

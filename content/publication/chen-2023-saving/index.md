@@ -12,4 +12,7 @@ publishDate: '2024-01-11T07:24:35.879035Z'
 publication_types:
 - paper-conference
 publication: '*NeurIPS*'
+
+url_code: 'https://github.com/jinpeng0528/STAR'
+url_source: 'https://openreview.net/forum?id=Ct0zPIe3xs'
 ---

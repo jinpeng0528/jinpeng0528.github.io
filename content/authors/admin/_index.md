@@ -113,6 +113,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I'm Jinpeng Chen (陈锦芃), a third-year Ph.D. Candidate in the Computer Science Department at City University of Hong Kong. My advisors are [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) and [Prof. Horace Ho Shing Ip](https://www.cityu.edu.hk/stfprofile/cship.htm), and I also work closely with [Prof. Runmin Cong](https://rmcong.github.io). My research focuses on deep learning and computer vision, specifically image segmentation and continual learning.
 {style="text-align: justify;"}

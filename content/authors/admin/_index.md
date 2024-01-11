@@ -29,7 +29,7 @@ bio: My research interests include image segmentation and continual learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Deep Learning
   - Computer Vision
   - Image Segmentation
   - Continual Learning
@@ -42,7 +42,7 @@ education:
       year: 2021.09~2025.08
     - course: B.Eng. in Electronic Information Science and Technology
       institution: Beijing University of Posts and Telecommunications
-      year: 2017.06~2021.06
+      year: 2017.09~2021.06
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

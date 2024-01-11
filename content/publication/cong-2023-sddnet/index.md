@@ -3,7 +3,7 @@ title: 'SDDNet: Style-guided Dual-layer Disentanglement Network for Shadow Detec
 authors:
 - Runmin Cong
 - Yuchen Guan
-- Jinpeng Chen
+- admin
 - Wei Zhang
 - Yao Zhao
 - Sam Kwong

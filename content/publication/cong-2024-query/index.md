@@ -3,7 +3,7 @@ title: Query-guided Prototype Evolution Network for Few-Shot Segmentation
 authors:
 - Runmin Cong
 - Hang Xiong
-- Jinpeng Chen
+- admin
 - Wei Zhang
 - Qingming Huang
 - Yao Zhao

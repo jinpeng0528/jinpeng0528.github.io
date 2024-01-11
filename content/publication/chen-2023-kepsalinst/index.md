@@ -1,7 +1,7 @@
 ---
 title: 'KepSalinst: Using Peripheral Points to Delineate Salient Instances'
 authors:
-- Jinpeng Chen
+- admin
 - Runmin Cong
 - Horace Ip
 - Sam Kwong

@@ -132,17 +132,9 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: '
-    \[2024.01.04\]One paper has been accepted by IEEE Transactions on Multimedia.
-
-    \[2023.10.09\]One paper has been accepted by IEEE Transactions on Cybernetics.
-
-    \[2023.09.22\]One paper has been accepted by NeurIPS 2023.  
-
-    \[2023.07.26\]One paper has been accepted by ACM MM 2023.
-    '
+      text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         folders:

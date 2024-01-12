@@ -1,18 +1,18 @@
 ---
-title: 'Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution
-  in Class-Incremental Semantic Segmentation'
+title: Query-guided Prototype Evolution Network for Few-Shot Segmentation
 authors:
-- admin
 - Runmin Cong
-- Luo Yuxuan
-- Horace Ip
-- Sam Kwong
-date: '2023-09-22'
-publishDate: '2024-01-11T07:24:35.879035Z'
+- Hang Xiong
+- admin
+- Wei Zhang
+- Qingming Huang
+- Yao Zhao
+date: '2024-01-04'
+publishDate: '2024-01-11T07:24:35.899879Z'
 publication_types:
-- paper-conference
-publication: '*NeurIPS*'
+- article-journal
+publication: '*IEEE Transactions on Multimedia*'
 
-url_code: 'https://github.com/jinpeng0528/STAR'
-url_source: 'https://openreview.net/forum?id=Ct0zPIe3xs'
+url_code: 
+url_source: 'https://ieeexplore.ieee.org/document/10388457'
 ---

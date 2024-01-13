@@ -9,6 +9,8 @@ name_pronunciation: ''
 first_name: Jinpeng
 last_name: Chen
 
+weight: 100
+
 # Status emoji
 status:
   icon: 👋

@@ -204,6 +204,7 @@ sections:
     id: publications
     content:
       title: Publications
+      order: none
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).

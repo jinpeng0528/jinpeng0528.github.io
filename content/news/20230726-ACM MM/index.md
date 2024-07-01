@@ -1,5 +1,5 @@
 ---
-title: One paper has been accepted by IEEE Transactions on Cybernetics
+title: One paper has been accepted by ACM MM 2023
 date: '2023-07-26'
 ---
 

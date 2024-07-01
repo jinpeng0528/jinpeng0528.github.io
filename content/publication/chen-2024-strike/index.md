@@ -1,7 +1,7 @@
 ---
 title: Strike a Balance in Continual Panoptic Segmentation
 authors:
-- Jinpeng Chen
+- admin
 - Runmin Cong
 - Luo Yuxuan
 - Horace Ip

@@ -13,5 +13,5 @@ publication_types:
 publication: '*ECCV*'
 
 url_code: 'https://github.com/jinpeng0528/BalConpas'
-url_source: 
+url_source: 'https://arxiv.org/abs/2407.16354'
 ---

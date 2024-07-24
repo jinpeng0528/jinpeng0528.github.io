@@ -14,5 +14,5 @@ publication_types:
 publication: '*NeurIPS*'
 
 url_code: 'https://github.com/jinpeng0528/STAR'
-url_source: 'https://openreview.net/forum?id=Ct0zPIe3xs'
+url_source: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html'
 ---

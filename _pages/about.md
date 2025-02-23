@@ -23,7 +23,7 @@ GPA: 3.63/4.0
 
 ## Publications
 
-**Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Replay without saving: Prototype derivation and distribution rebalance for class-incremental semantic segmentation," *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025.
-**Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Saving 100x storage: Prototype replay for reconstructing training sample distribution in class-incremental semantic segmentation," *NeurIPS*, 2023.
-**Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Strike a balance in continual panoptic segmentation," *ECCV*, 2024.
-**Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "KepSalinst: Using peripheral points to delineate salient instances," *IEEE Transactions on Cybernetics*, 2024.
+**Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Replay without saving: Prototype derivation and distribution rebalance for class-incremental semantic segmentation," *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025.  
+**Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Saving 100x storage: Prototype replay for reconstructing training sample distribution in class-incremental semantic segmentation," *NeurIPS*, 2023.  
+**Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Strike a balance in continual panoptic segmentation," *ECCV*, 2024.  
+**Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "KepSalinst: Using peripheral points to delineate salient instances," *IEEE Transactions on Cybernetics*, 2024.  

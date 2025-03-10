@@ -25,7 +25,7 @@ GPA: 3.63/4.0
 
 ## Publications
 
-- **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Replay without saving: Prototype derivation and distribution rebalance for class-incremental semantic segmentation," *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025.   
+- **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Replay without saving: Prototype derivation and distribution rebalance for class-incremental semantic segmentation," *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025. [[Paper](https://ieeexplore.ieee.org/document/10904177)]  
 
 - **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Saving 100x storage: Prototype replay for reconstructing training sample distribution in class-incremental semantic segmentation," *NeurIPS*, 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html)] [[Code](https://github.com/jinpeng0528/STAR)]  
 

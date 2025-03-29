@@ -39,6 +39,6 @@ GPA: 3.63/4.0
 
 - Runmin Cong, Hang Xiong, **Jinpeng Chen‡**, Wei Zhang, Qingming Huang, and Yao Zhao, “Query-guided prototype evolution network for few-shot segmentation,” *IEEE Transactions on Multimedia*, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10388457)] [[Code](https://github.com/rmcong/QPENet_TMM24)]
 
-- Yuxuan Luo, **Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, “Query-guided prototype evolution network for few-shot segmentation,” *IEEE Transactions on Circuits and Systems for Video Technology*, 2025.
+- Yuxuan Luo, **Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, “Query-guided prototype evolution network for few-shot segmentation,” *IEEE Transactions on Circuits and Systems for Video Technology*, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10937737)]
 
 (†Co-first Author; ‡Corresponding Author)

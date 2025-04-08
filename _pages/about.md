@@ -33,7 +33,7 @@ GPA: 3.63/4.0
 
 - **Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "KepSalinst: Using peripheral points to delineate salient instances," *IEEE Transactions on Cybernetics*, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10314036)] [[Code](https://github.com/jinpeng0528/KepSalinst)]
 
-- Yuxuan Luo†, **Jinpeng Chen†**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "Trace back and go ahead: Completing partial annotation for continual semantic segmentation," *Pattern Recognition*, 2025.
+- Yuxuan Luo†, **Jinpeng Chen†**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "Trace back and go ahead: Completing partial annotation for continual semantic segmentation," *Pattern Recognition*, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325002730)]
 
 - Runmin Cong, Yuchen Guan, **Jinpeng Chen‡**, Wei Zhang, Yao Zhao, and Sam Kwong, “SDDNet: Style-guided dual-layer disentanglement network for shadow detection,” *ACM MM*, 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612482)] [[Code](https://arxiv.org/abs/2308.08935)]   
 

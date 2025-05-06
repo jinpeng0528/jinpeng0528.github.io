@@ -25,7 +25,7 @@ GPA: 3.63/4.0
 
 ## Publications
 
-- **Jinpeng Chen†**, Runmin Cong†, Yuzhi Zhao, Hongzheng Yang, Guangneng Hu, Horace Ho Shing Ip, and Sam Kwong, "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning," *ICML*, 2025.
+- **Jinpeng Chen†**, Runmin Cong†, Yuzhi Zhao, Hongzheng Yang, Guangneng Hu, Horace Ho Shing Ip, and Sam Kwong, "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning," *ICML*, 2025. [[Paper](https://arxiv.org/abs/2505.02486)] [[Code](https://github.com/jinpeng0528/SEFE)] [[Dataset](https://huggingface.co/datasets/jinpeng0528/CoIN-ASD)]
 
 - **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Replay without saving: Prototype derivation and distribution rebalance for class-incremental semantic segmentation," *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025. [[Paper](https://ieeexplore.ieee.org/document/10904177)] [[Code](https://github.com/jinpeng0528/STAR-TPAMI)]
 

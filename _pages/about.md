@@ -9,11 +9,11 @@ redirect_from:
 
 ## About Me
 
-Hello, I'm Jinpeng Chen (陈锦芃), a final-year Ph.D. Candidate in the Computer Science Department at City University of Hong Kong. My advisors are [Prof. Horace Ho Shing Ip](https://www.cityu.edu.hk/stfprofile/cship.htm) and [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow), and I work closely with [Prof. Runmin Cong](https://rmcong.github.io). My research focuses on continual learning, multimodal large language models (MLLMs), and image segmentation.
+Hello, I'm Jinpeng Chen (陈锦芃), a Ph.D. in Computer Science from City University of Hong Kong. I was advised by [Prof. Horace Ho Shing Ip](https://www.cityu.edu.hk/stfprofile/cship.htm) and [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow), and collaborated closely with [Prof. Runmin Cong](https://rmcong.github.io). My research focuses on continual learning, multimodal large language models (MLLMs), and image segmentation.
 
 ## Education
 
-### Ph.D., City University of Hong Kong (Sep 2021 - Present)
+### Ph.D., City University of Hong Kong (Sep 2021 - Jun 2025)
 Major: Computer Science  
 Supervisor: Prof. Horace Ip and Prof. Sam Kwong (IEEE Fellow)  
 Research Focus: Continual Learning, MLLMs, Image Segmentation  

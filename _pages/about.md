@@ -13,24 +13,29 @@ Hello, I’m Jinpeng Chen (陈锦芃), a Research Engineer at Huawei Hong Kong R
 
 ## Experience
 
-### Research Engineer, Huawei Hong Kong Research Center (Jun 2025 - Now)
+### Huawei Hong Kong Research Center (Jun 2025 - Now)
+Position: Research Engineer  
 Responsibilities: Explored multimodal understanding and AI Agent development.
 
-### Research Intern, Huawei Hong Kong Research Center (May 2024 - Apr 2025)
+### Huawei Hong Kong Research Center (May 2024 - Apr 2025)
+Position: Research Intern  
 Responsibilities: Investigated AI Agents and continual learning strategies for multimodal large language models (MLLMs).
 
-### Research Intern, Tsinghua University (Aug 2019 - Jun 2021)
+### Tsinghua University (Aug 2019 - Jun 2021)
+Position: Research Intern  
 Responsibilities: Conducted research on AI-driven analysis and applications of human physiological signals.
 
 ## Education
 
-### Ph.D., City University of Hong Kong (Sep 2021 - Jun 2025)
+### City University of Hong Kong (Sep 2021 - Jun 2025)
+Degree: Ph.D.  
 Major: Computer Science  
 Supervisor: Prof. Horace Ip and Prof. Sam Kwong (IEEE Fellow)  
 Research Focus: Continual Learning, MLLMs, Image Segmentation  
 GPA: 3.90/4.3  
 
-### B.Eng., Beijing University of Posts and Telecommunications (Sep 2017 - Jun 2021)
+### Beijing University of Posts and Telecommunications (Sep 2017 - Jun 2021)
+Degree: B.Eng.  
 Major: Electronic Information Science and Technology  
 GPA: 3.63/4.0  
 

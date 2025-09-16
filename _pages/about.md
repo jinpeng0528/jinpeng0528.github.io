@@ -60,5 +60,7 @@ GPA: 3.63/4.0
 - Yuxuan Luo, **Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, “Query-guided prototype evolution network for few-shot segmentation,” *IEEE Transactions on Circuits and Systems for Video Technology*, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10937737)]
 
 - Hang Xiong, Runmin Cong, **Jinpeng Chen**, Chen Zhang, Feng Li, Huihui Bai, and Sam Kwong, “MM-Prompt: Multi-modality and Multi-granularity Prompts for Few-Shot Segmentation,” *ACM MM*, 2025.
+
+- Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Yuzhi Zhao, Mengyang Wu, **Jinpeng Chen**, Thanh-Toan Nguyen, Pengfei Xian, Wenao Ma, Shengchao Qin, Graziano Chesi, and Ngai Wong, “KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation,” *EMNLP*, 2025.
   
 (†Co-first Author; ‡Corresponding Author)

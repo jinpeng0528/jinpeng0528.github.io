@@ -49,7 +49,9 @@ GPA: 3.63/4.0
 
 - **Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "KepSalinst: Using peripheral points to delineate salient instances," *IEEE Transactions on Cybernetics*, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10314036)] [[Code](https://github.com/jinpeng0528/KepSalinst)]
 
-- **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Saving 100x storage: Prototype replay for reconstructing training sample distribution in class-incremental semantic segmentation," *NeurIPS*, 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html)] [[Code](https://github.com/jinpeng0528/STAR)]  
+- **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Saving 100x storage: Prototype replay for reconstructing training sample distribution in class-incremental semantic segmentation," *NeurIPS*, 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html)] [[Code](https://github.com/jinpeng0528/STAR)]
+
+- Mingjie Xu†, **Jinpeng Chen†**, Yuzhi Zhao, Jason Chun Lok Li, Yue Qiu, Zekang Du, Mengyang Wu, Pingping Zhang, Kun Li, Hongzheng Yang, Wenao Ma, Jiaheng Wei, Qinbin Li, Kangcheng Liu, and Wenqiang Lei, "VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models," *AAAI*, 2026.
 
 - Yuxuan Luo†, **Jinpeng Chen†**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "Trace back and go ahead: Completing partial annotation for continual semantic segmentation," *Pattern Recognition*, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325002730)]
 

@@ -15,7 +15,7 @@ Hello, I’m Jinpeng Chen (陈锦芃), a Research Engineer at Huawei Hong Kong R
 
 ### Huawei Hong Kong Research Center (Jun 2025 - Now)
 Position: Research Engineer  
-Responsibilities: Explored multimodal understanding and AI Agent development.
+Responsibilities: Exploring multimodal understanding and AI Agent development.
 
 ### Huawei Hong Kong Research Center (May 2024 - Apr 2025)
 Position: Research Intern  

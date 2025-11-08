@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-Hello, I’m Jinpeng Chen (陈锦芃), a Research Engineer at Huawei Hong Kong Research Center (HKRC). I received my Ph.D. in Computer Science from City University of Hong Kong, advised by [Prof. Horace Ho Shing Ip](https://www.cityu.edu.hk/stfprofile/cship.htm) and [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow), and collaborated closely with [Prof. Runmin Cong](https://rmcong.github.io). My research focuses on continual learning, multimodal large language models (MLLMs), and image segmentation.
+Hello, I’m Jinpeng Chen (陈锦芃), a Research Engineer at Huawei Hong Kong Research Center. I received my Ph.D. in Computer Science from City University of Hong Kong, advised by [Prof. Horace Ho Shing Ip](https://www.cityu.edu.hk/stfprofile/cship.htm) and [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow), and collaborated closely with [Prof. Runmin Cong](https://rmcong.github.io). My research focuses on Multimodal Understanding, Agentic RL, and Continual Learning.
 
 ## Experience
 

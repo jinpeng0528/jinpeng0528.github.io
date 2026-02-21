@@ -59,7 +59,7 @@ GPA: 3.63/4.0
 
 - Runmin Cong, Yuchen Guan, **Jinpeng Chen‡**, Wei Zhang, Yao Zhao, and Sam Kwong, “SDDNet: Style-guided dual-layer disentanglement network for shadow detection,” *ACM MM*, 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612482)] [[Code](https://arxiv.org/abs/2308.08935)]   
 
-- Yuxuan Luo, **Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, “Query-guided prototype evolution network for few-shot segmentation,” *IEEE Transactions on Circuits and Systems for Video Technology*, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10937737)]
+- Yuxuan Luo, **Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, “Concept-level semantic transfer and context-level distribution modeling for few-shot segmentation,” *IEEE Transactions on Circuits and Systems for Video Technology*, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10937737)]
 
 - Hang Xiong, Runmin Cong, **Jinpeng Chen**, Chen Zhang, Feng Li, Huihui Bai, and Sam Kwong, “MM-Prompt: Multi-modality and Multi-granularity Prompts for Few-Shot Segmentation,” *ACM MM*, 2025.
 

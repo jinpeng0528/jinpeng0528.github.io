@@ -39,7 +39,13 @@ Degree: B.Eng.
 Major: Electronic Information Science and Technology  
 GPA: 3.63/4.0  
 
-## Publications
+## Selected Publications
+
+- Xudong Lu†, Yang Bo†, **Jinpeng Chen†**, Shuhan Li†, Xintong Guo†, Huankang Guan†, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026.
+
+- **Jinpeng Chen†**, Cheng Gong†, Hanbo Li†, Ziru Liu, Zichen Tian, Xinyu Fu, Shi Wu, Chenyang Zhang, Wu Zhang, Suiyun Zhang, Dandan Tu, Rui Liu, "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification," *arXiv:2603.01940*, 2026.
+
+- **Jinpeng Chen†**, Runmin Cong†, Yuzhi Zhao, Hongzheng Yang, Guangneng Hu, Horace Ho Shing Ip, and Sam Kwong, "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning," *ICML*, 2025.
 
 - **Jinpeng Chen†**, Runmin Cong†, Yuzhi Zhao, Hongzheng Yang, Guangneng Hu, Horace Ho Shing Ip, and Sam Kwong, "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning," *ICML*, 2025. [[Paper](https://arxiv.org/abs/2505.02486)] [[Code](https://github.com/jinpeng0528/SEFE)] [[Dataset](https://huggingface.co/datasets/jinpeng0528/CoIN-ASD)]
 
@@ -55,14 +61,10 @@ GPA: 3.63/4.0
 
 - Yuxuan Luo†, **Jinpeng Chen†**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "Trace back and go ahead: Completing partial annotation for continual semantic segmentation," *Pattern Recognition*, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325002730)]
 
+- Hang Xiong, Runmin Cong, **Jinpeng Chen‡**, Feng Li, Huihui Bai, and Sam Kwong, “Beyond Simple Extraction: Unleashing the Potential of Encoder Interaction in Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2026.
+
 - Runmin Cong, Hang Xiong, **Jinpeng Chen‡**, Wei Zhang, Qingming Huang, and Yao Zhao, “Query-guided prototype evolution network for few-shot segmentation,” *IEEE Transactions on Multimedia*, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10388457)] [[Code](https://github.com/rmcong/QPENet_TMM24)]
 
 - Runmin Cong, Yuchen Guan, **Jinpeng Chen‡**, Wei Zhang, Yao Zhao, and Sam Kwong, “SDDNet: Style-guided dual-layer disentanglement network for shadow detection,” *ACM MM*, 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612482)] [[Code](https://arxiv.org/abs/2308.08935)]   
-
-- Yuxuan Luo, **Jinpeng Chen**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, “Concept-level semantic transfer and context-level distribution modeling for few-shot segmentation,” *IEEE Transactions on Circuits and Systems for Video Technology*, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10937737)]
-
-- Hang Xiong, Runmin Cong, **Jinpeng Chen**, Chen Zhang, Feng Li, Huihui Bai, and Sam Kwong, “MM-Prompt: Multi-modality and Multi-granularity Prompts for Few-Shot Segmentation,” *ACM MM*, 2025.
-
-- Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Yuzhi Zhao, Mengyang Wu, **Jinpeng Chen**, Thanh-Toan Nguyen, Pengfei Xian, Wenao Ma, Shengchao Qin, Graziano Chesi, and Ngai Wong, “KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation,” *EMNLP*, 2025.
   
 (†Co-first Author; ‡Corresponding Author)

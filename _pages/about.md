@@ -41,9 +41,9 @@ GPA: 3.63/4.0
 
 ## Selected Publications
 
-- Xudong Lu†, Yang Bo†, **Jinpeng Chen†**, Shuhan Li†, Xintong Guo†, Huankang Guan†, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026.
+- Xudong Lu†, Yang Bo†, **Jinpeng Chen†**, Shuhan Li†, Xintong Guo†, Huankang Guan†, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026. [[Paper](https://arxiv.org/abs/2604.04184)] [[Code](https://github.com/aurateam2026/AURA)] [[Model](https://huggingface.co/aurateam/AURA)]
 
-- **Jinpeng Chen†**, Cheng Gong†, Hanbo Li†, Ziru Liu, Zichen Tian, Xinyu Fu, Shi Wu, Chenyang Zhang, Wu Zhang, Suiyun Zhang, Dandan Tu, Rui Liu, "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification," *arXiv:2603.01940*, 2026.
+- **Jinpeng Chen†**, Cheng Gong†, Hanbo Li†, Ziru Liu, Zichen Tian, Xinyu Fu, Shi Wu, Chenyang Zhang, Wu Zhang, Suiyun Zhang, Dandan Tu, Rui Liu, "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification," *arXiv:2603.01940*, 2026. [[Paper](https://arxiv.org/abs/2603.01940)] [[Model](https://huggingface.co/Zichen1024/CoVe-4B)] [[Dataset](https://huggingface.co/datasets/Zichen1024/CoVe-12k)]
 
 - **Jinpeng Chen†**, Runmin Cong†, Yuzhi Zhao, Hongzheng Yang, Guangneng Hu, Horace Ho Shing Ip, and Sam Kwong, "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning," *ICML*, 2025.
 

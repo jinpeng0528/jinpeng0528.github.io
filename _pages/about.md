@@ -49,9 +49,9 @@ GPA: 3.63/4.0
 
 - **Jinpeng Chen†**, Runmin Cong†, Yuzhi Zhao, Hongzheng Yang, Guangneng Hu, Horace Ho Shing Ip, and Sam Kwong, "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning," *ICML*, 2025. [[Paper](https://arxiv.org/abs/2505.02486)] [[Code](https://github.com/jinpeng0528/SEFE)] [[Dataset](https://huggingface.co/datasets/jinpeng0528/CoIN-ASD)]
 
-- Yuxuan Luo†, **Jinpeng Chen†**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "Trace Back and Go Ahead: Completing partial annotation for continual semantic segmentation," *Pattern Recognition*, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325002730)]
-
 - **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Replay Without Saving: Prototype Derivation and Distribution Rebalance for Class-Incremental Semantic Segmentation," *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025. [[Paper](https://ieeexplore.ieee.org/document/10904177)] [[Code](https://github.com/jinpeng0528/STAR-TPAMI)]
+
+- Yuxuan Luo†, **Jinpeng Chen†**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "Trace Back and Go Ahead: Completing partial annotation for continual semantic segmentation," *Pattern Recognition*, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325002730)]
 
 - **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Strike a Balance in Continual Panoptic Segmentation," *ECCV*, 2024. [[Paper](https://arxiv.org/abs/2407.16354)] [[Code](https://github.com/jinpeng0528/BalConpas)]  
 

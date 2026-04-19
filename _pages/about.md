@@ -59,7 +59,7 @@ GPA: 3.63/4.0
 
 - **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation," *NeurIPS*, 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html)] [[Code](https://github.com/jinpeng0528/STAR)]
 
-- Hang Xiong, Runmin Cong, **Jinpeng Chen‡**, Feng Li, Huihui Bai, and Sam Kwong, “Beyond Simple Extraction: Unleashing the Potential of Encoder Interaction in Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2026.
+- Runmin Cong, Hang Xiong, **Jinpeng Chen‡**, Feng Li, Huihui Bai, and Sam Kwong, “Beyond Simple Extraction: Unleashing the Potential of Encoder Interaction in Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2026.
 
 - Runmin Cong, Hang Xiong, **Jinpeng Chen‡**, Wei Zhang, Qingming Huang, and Yao Zhao, “Query-Guided Prototype Evolution Network for Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10388457)] [[Code](https://github.com/rmcong/QPENet_TMM24)]
 

@@ -41,9 +41,9 @@ GPA: 3.63/4.0
 
 ## Selected Publications
 
-- Xudong Lu†, Yang Bo†, **Jinpeng Chen†**, Shuhan Li†, Xintong Guo†, Huankang Guan†, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026. [[Tech Report](https://arxiv.org/abs/2604.04184)] [[Code](https://github.com/aurateam2026/AURA)] [[Model](https://huggingface.co/aurateam/AURA)]
+- Xudong Lu†, Yang Bo†, **Jinpeng Chen†**, Shuhan Li†, Xintong Guo†, Huankang Guan†, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026. [[Technical Report](https://arxiv.org/abs/2604.04184)] [[Project Page](https://aurateam2026.github.io)] [[Code](https://github.com/aurateam2026/AURA)] [[Model](https://huggingface.co/aurateam/AURA)]
 
-- **Jinpeng Chen†**, Cheng Gong†, Hanbo Li†, Ziru Liu, Zichen Tian, Xinyu Fu, Shi Wu, Chenyang Zhang, Wu Zhang, Suiyun Zhang, Dandan Tu, Rui Liu, "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification," *arXiv:2603.01940*, 2026. [[Tech Report](https://arxiv.org/abs/2603.01940)] [[Model](https://huggingface.co/Zichen1024/CoVe-4B)] [[Dataset](https://huggingface.co/datasets/Zichen1024/CoVe-12k)]
+- **Jinpeng Chen†**, Cheng Gong†, Hanbo Li†, Ziru Liu, Zichen Tian, Xinyu Fu, Shi Wu, Chenyang Zhang, Wu Zhang, Suiyun Zhang, Dandan Tu, Rui Liu, "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification," *arXiv:2603.01940*, 2026. [[Technical Report](https://arxiv.org/abs/2603.01940)] [[Project Page](https://cove-agent.github.io)] [[Model](https://huggingface.co/Zichen1024/CoVe-4B)] [[Dataset](https://huggingface.co/datasets/Zichen1024/CoVe-12k)]
 
 - Mingjie Xu†, **Jinpeng Chen†**, Yuzhi Zhao, Jason Chun Lok Li, Yue Qiu, Zekang Du, Mengyang Wu, Pingping Zhang, Kun Li, Hongzheng Yang, Wenao Ma, Jiaheng Wei, Qinbin Li, Kangcheng Liu, and Wenqiang Lei, "VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models," *AAAI*, 2026. [[Paper](https://arxiv.org/abs/2511.11438)] [[Code](https://github.com/Endlinc/VP-Bench)] [[Dataset](https://huggingface.co/datasets/jinpeng0528/VP-Bench)]
 

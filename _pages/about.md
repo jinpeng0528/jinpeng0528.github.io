@@ -9,12 +9,16 @@ redirect_from:
 
 ## About Me
 
-Hello, I’m Jinpeng Chen (陈锦芃), a Researcher at Huawei Hong Kong Research Center. I received my Ph.D. in Computer Science from City University of Hong Kong, advised by [Prof. Horace Ho Shing Ip](https://www.cityu.edu.hk/stfprofile/cship.htm) and [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow), and collaborated closely with [Prof. Runmin Cong](https://rmcong.github.io). My research focuses on Multimodal Understanding, Agentic RL, and Continual Learning.
+Hello, I’m Jinpeng Chen (陈锦芃), a Researcher at ModelBest. I received my Ph.D. in Computer Science from City University of Hong Kong, advised by [Prof. Horace Ho Shing Ip](https://www.cityu.edu.hk/stfprofile/cship.htm) and [Prof. Sam Kwong](https://www.ln.edu.hk/po/professor-sam-kwong-tak-wu) (IEEE Fellow), and collaborated closely with [Prof. Runmin Cong](https://rmcong.github.io). My research focuses on Multimodal Understanding, Agentic RL, and Continual Learning.
 
 ## Experience
 
-### Huawei Hong Kong Research Center (Jun 2025 - Now)
-Position: Researcher
+### ModelBest (Jul 2026 - Now)
+Position: Researcher  
+Responsibilities: Developing omni-modal foundation models.
+
+### Huawei Hong Kong Research Center (Jun 2025 - Jul 2026)
+Position: Researcher  
 Responsibilities: Exploring multimodal understanding and AI Agent development.
 
 ### Huawei Hong Kong Research Center (May 2024 - Apr 2025)
@@ -41,6 +45,8 @@ GPA: 3.63/4.0
 
 ## Selected Publications
 
+- Fang Liu†, **Jinpeng Chen†**, Ke Xu, Yuhao Liu, Huankang Guan, Xudong Lu, Bo Yang, Gerhard Hancke, Rui Liu, and Rynson W. H. Lau, "GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video," *ECCV*, 2026. [[Paper](https://arxiv.org/abs/2607.02991)] [[Project Page](https://fawnliu.github.io/project/guideme/)] [[Code](https://github.com/fawnliu/GuideMe)]
+
 - Xudong Lu†, Yang Bo†, **Jinpeng Chen†**, Shuhan Li†, Xintong Guo†, Huankang Guan†, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026. [[Technical Report](https://arxiv.org/abs/2604.04184)] [[Project Page](https://aurateam2026.github.io)] [[Code](https://github.com/aurateam2026/AURA)] [[Model](https://huggingface.co/aurateam/AURA)]
 
 - **Jinpeng Chen†**, Cheng Gong†, Hanbo Li†, Ziru Liu, Zichen Tian, Xinyu Fu, Shi Wu, Chenyang Zhang, Wu Zhang, Suiyun Zhang, Dandan Tu, Rui Liu, "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification," *arXiv:2603.01940*, 2026. [[Technical Report](https://arxiv.org/abs/2603.01940)] [[Project Page](https://cove-agent.github.io)] [[Model](https://huggingface.co/Zichen1024/CoVe-4B)] [[Dataset](https://huggingface.co/datasets/Zichen1024/CoVe-12k)]
@@ -59,7 +65,7 @@ GPA: 3.63/4.0
 
 - **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation," *NeurIPS*, 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html)] [[Code](https://github.com/jinpeng0528/STAR)]
 
-- Runmin Cong, Hang Xiong, **Jinpeng Chen‡**, Feng Li, Huihui Bai, and Sam Kwong, “Beyond Simple Extraction: Unleashing the Potential of Encoder Interaction in Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2026.
+- Runmin Cong, Hang Xiong, **Jinpeng Chen‡**, Feng Li, Huihui Bai, and Sam Kwong, “Beyond Simple Extraction: Unleashing the Potential of Encoder Interaction in Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11570951)]
 
 - Runmin Cong, Hang Xiong, **Jinpeng Chen‡**, Wei Zhang, Qingming Huang, and Yao Zhao, “Query-Guided Prototype Evolution Network for Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10388457)] [[Code](https://github.com/rmcong/QPENet_TMM24)]
 

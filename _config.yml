@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Jinpeng Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher at Huawei Hong Kong Research Center"
-  location         : "Hong Kong SAR, China"
-  employer         : "City University of Hong Kong"
+  # bio              : "Researcher at ModelBest"
+  # location         : "Shenzhen, China"
+  employer         : "ModelBest"
   uri              : # URL
   email            : "jinpeng.chen@my.cityu.edu.hk" 
 

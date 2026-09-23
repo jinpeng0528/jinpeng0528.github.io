@@ -45,19 +45,19 @@ GPA: 3.63/4.0
 
 ## Selected Publications
 
-- Fang Liu†, **Jinpeng Chen\***, Ke Xu, Yuhao Liu, Huankang Guan, Xudong Lu, Bo Yang, Gerhard Hancke, Rui Liu, and Rynson W. H. Lau, "GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video," *ECCV*, 2026. [[Paper](https://arxiv.org/abs/2607.02991)] [[Project Page](https://fawnliu.github.io/project/guideme/)] [[Code](https://github.com/fawnliu/GuideMe)]
+- Fang Liu\*, **Jinpeng Chen\***, Ke Xu, Yuhao Liu, Huankang Guan, Xudong Lu, Bo Yang, Gerhard Hancke, Rui Liu, and Rynson W. H. Lau, "GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video," *ECCV*, 2026. [[Paper](https://arxiv.org/abs/2607.02991)] [[Project Page](https://fawnliu.github.io/project/guideme/)] [[Code](https://github.com/fawnliu/GuideMe)]
 
-- Xudong Lu†, Yang Bo†, **Jinpeng Chen†**, Shuhan Li†, Xintong Guo†, Huankang Guan†, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026. [[Technical Report](https://arxiv.org/abs/2604.04184)] [[Project Page](https://aurateam2026.github.io)] [[Code](https://github.com/aurateam2026/AURA)] [[Model](https://huggingface.co/aurateam/AURA)]
+- Xudong Lu\*, Yang Bo\*, **Jinpeng Chen\***, Shuhan Li\*, Xintong Guo\*, Huankang Guan\*, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026. [[Technical Report](https://arxiv.org/abs/2604.04184)] [[Project Page](https://aurateam2026.github.io)] [[Code](https://github.com/aurateam2026/AURA)] [[Model](https://huggingface.co/aurateam/AURA)]
 
-- **Jinpeng Chen†**, Cheng Gong†, Hanbo Li†, Ziru Liu, Zichen Tian, Xinyu Fu, Shi Wu, Chenyang Zhang, Wu Zhang, Suiyun Zhang, Dandan Tu, Rui Liu, "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification," *arXiv:2603.01940*, 2026. [[Technical Report](https://arxiv.org/abs/2603.01940)] [[Project Page](https://cove-agent.github.io)] [[Model](https://huggingface.co/Zichen1024/CoVe-4B)] [[Dataset](https://huggingface.co/datasets/Zichen1024/CoVe-12k)]
+- **Jinpeng Chen\***, Cheng Gong\*, Hanbo Li\*, Ziru Liu, Zichen Tian, Xinyu Fu, Shi Wu, Chenyang Zhang, Wu Zhang, Suiyun Zhang, Dandan Tu, Rui Liu, "CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification," *arXiv:2603.01940*, 2026. [[Technical Report](https://arxiv.org/abs/2603.01940)] [[Project Page](https://cove-agent.github.io)] [[Model](https://huggingface.co/Zichen1024/CoVe-4B)] [[Dataset](https://huggingface.co/datasets/Zichen1024/CoVe-12k)]
 
-- Mingjie Xu†, **Jinpeng Chen†**, Yuzhi Zhao, Jason Chun Lok Li, Yue Qiu, Zekang Du, Mengyang Wu, Pingping Zhang, Kun Li, Hongzheng Yang, Wenao Ma, Jiaheng Wei, Qinbin Li, Kangcheng Liu, and Wenqiang Lei, "VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models," *AAAI*, 2026. [[Paper](https://arxiv.org/abs/2511.11438)] [[Code](https://github.com/Endlinc/VP-Bench)] [[Dataset](https://huggingface.co/datasets/jinpeng0528/VP-Bench)]
+- Mingjie Xu\*, **Jinpeng Chen\***, Yuzhi Zhao, Jason Chun Lok Li, Yue Qiu, Zekang Du, Mengyang Wu, Pingping Zhang, Kun Li, Hongzheng Yang, Wenao Ma, Jiaheng Wei, Qinbin Li, Kangcheng Liu, and Wenqiang Lei, "VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models," *AAAI*, 2026. [[Paper](https://arxiv.org/abs/2511.11438)] [[Code](https://github.com/Endlinc/VP-Bench)] [[Dataset](https://huggingface.co/datasets/jinpeng0528/VP-Bench)]
 
-- **Jinpeng Chen†**, Runmin Cong†, Yuzhi Zhao, Hongzheng Yang, Guangneng Hu, Horace Ho Shing Ip, and Sam Kwong, "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning," *ICML*, 2025. [[Paper](https://arxiv.org/abs/2505.02486)] [[Code](https://github.com/jinpeng0528/SEFE)] [[Dataset](https://huggingface.co/datasets/jinpeng0528/CoIN-ASD)]
+- **Jinpeng Chen\***, Runmin Cong\*, Yuzhi Zhao, Hongzheng Yang, Guangneng Hu, Horace Ho Shing Ip, and Sam Kwong, "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning," *ICML*, 2025. [[Paper](https://arxiv.org/abs/2505.02486)] [[Code](https://github.com/jinpeng0528/SEFE)] [[Dataset](https://huggingface.co/datasets/jinpeng0528/CoIN-ASD)]
 
 - **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Replay Without Saving: Prototype Derivation and Distribution Rebalance for Class-Incremental Semantic Segmentation," *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025. [[Paper](https://ieeexplore.ieee.org/document/10904177)] [[Code](https://github.com/jinpeng0528/STAR-TPAMI)]
 
-- Yuxuan Luo†, **Jinpeng Chen†**, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "Trace Back and Go Ahead: Completing partial annotation for continual semantic segmentation," *Pattern Recognition*, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325002730)]
+- Yuxuan Luo\*, **Jinpeng Chen\***, Runmin Cong, Horace Ho Shing Ip, and Sam Kwong, "Trace Back and Go Ahead: Completing partial annotation for continual semantic segmentation," *Pattern Recognition*, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325002730)]
 
 - **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Strike a Balance in Continual Panoptic Segmentation," *ECCV*, 2024. [[Paper](https://arxiv.org/abs/2407.16354)] [[Code](https://github.com/jinpeng0528/BalConpas)]  
 
@@ -65,10 +65,10 @@ GPA: 3.63/4.0
 
 - **Jinpeng Chen**, Runmin Cong, Yuxuan Luo, Horace Ho Shing Ip, and Sam Kwong, "Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation," *NeurIPS*, 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html)] [[Code](https://github.com/jinpeng0528/STAR)]
 
-- Runmin Cong, Hang Xiong, **Jinpeng Chen‡**, Feng Li, Huihui Bai, and Sam Kwong, “Beyond Simple Extraction: Unleashing the Potential of Encoder Interaction in Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11570951)]
+- Runmin Cong, Hang Xiong, **Jinpeng Chen†**, Feng Li, Huihui Bai, and Sam Kwong, “Beyond Simple Extraction: Unleashing the Potential of Encoder Interaction in Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2026. [[Paper](https://ieeexplore.ieee.org/abstract/document/11570951)]
 
-- Runmin Cong, Hang Xiong, **Jinpeng Chen‡**, Wei Zhang, Qingming Huang, and Yao Zhao, “Query-Guided Prototype Evolution Network for Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10388457)] [[Code](https://github.com/rmcong/QPENet_TMM24)]
+- Runmin Cong, Hang Xiong, **Jinpeng Chen†**, Wei Zhang, Qingming Huang, and Yao Zhao, “Query-Guided Prototype Evolution Network for Few-Shot Segmentation,” *IEEE Transactions on Multimedia*, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10388457)] [[Code](https://github.com/rmcong/QPENet_TMM24)]
 
-- Runmin Cong, Yuchen Guan, **Jinpeng Chen‡**, Wei Zhang, Yao Zhao, and Sam Kwong, “SDDNet: Style-guided Dual-layer Disentanglement Network for Shadow Detection,” *ACM MM*, 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612482)] [[Code](https://github.com/rmcong/SDDNet_ACMMM23)]   
+- Runmin Cong, Yuchen Guan, **Jinpeng Chen†**, Wei Zhang, Yao Zhao, and Sam Kwong, “SDDNet: Style-guided Dual-layer Disentanglement Network for Shadow Detection,” *ACM MM*, 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612482)] [[Code](https://github.com/rmcong/SDDNet_ACMMM23)]   
   
-(†Co-first Author; ‡Corresponding Author)
+(\*Co-first Author; †Corresponding Author)

@@ -45,7 +45,7 @@ GPA: 3.63/4.0
 
 ## Selected Publications
 
-- Fang Liu†, **Jinpeng Chen†**, Ke Xu, Yuhao Liu, Huankang Guan, Xudong Lu, Bo Yang, Gerhard Hancke, Rui Liu, and Rynson W. H. Lau, "GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video," *ECCV*, 2026. [[Paper](https://arxiv.org/abs/2607.02991)] [[Project Page](https://fawnliu.github.io/project/guideme/)] [[Code](https://github.com/fawnliu/GuideMe)]
+- Fang Liu†, **Jinpeng Chen\***, Ke Xu, Yuhao Liu, Huankang Guan, Xudong Lu, Bo Yang, Gerhard Hancke, Rui Liu, and Rynson W. H. Lau, "GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video," *ECCV*, 2026. [[Paper](https://arxiv.org/abs/2607.02991)] [[Project Page](https://fawnliu.github.io/project/guideme/)] [[Code](https://github.com/fawnliu/GuideMe)]
 
 - Xudong Lu†, Yang Bo†, **Jinpeng Chen†**, Shuhan Li†, Xintong Guo†, Huankang Guan†, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026. [[Technical Report](https://arxiv.org/abs/2604.04184)] [[Project Page](https://aurateam2026.github.io)] [[Code](https://github.com/aurateam2026/AURA)] [[Model](https://huggingface.co/aurateam/AURA)]
 

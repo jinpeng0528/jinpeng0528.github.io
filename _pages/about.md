@@ -45,6 +45,8 @@ GPA: 3.63/4.0
 
 ## Selected Publications
 
+- Zichen Tian, **Jinpeng Chen‡**, Cheng Gong, Suiyun Zhang, and Rui Liu, "SAP: State-Guided Data Synthesis with Argument Provenance for Multi-Turn Tool Use," *EMNLP Findings*, 2026. [[Paper](https://arxiv.org/abs/2609.06124)] [[Code](https://github.com/Zichen1024/SAP)]
+
 - Fang Liu\*, **Jinpeng Chen\***, Ke Xu, Yuhao Liu, Huankang Guan, Xudong Lu, Bo Yang, Gerhard Hancke, Rui Liu, and Rynson W. H. Lau, "GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video," *ECCV*, 2026. [[Paper](https://arxiv.org/abs/2607.02991)] [[Project Page](https://fawnliu.github.io/project/guideme/)] [[Code](https://github.com/fawnliu/GuideMe)]
 
 - Xudong Lu\*, Yang Bo\*, **Jinpeng Chen\***, Shuhan Li\*, Xintong Guo\*, Huankang Guan\*, Fang Liu, Dunyuan Xu, Peiwen Sun, Heyang Sun, Rui Liu, Hongsheng Li, "AURA: Always-On Understanding and Real-Time Assistance via Video Streams," *arXiv:2604.04184*, 2026. [[Technical Report](https://arxiv.org/abs/2604.04184)] [[Project Page](https://aurateam2026.github.io)] [[Code](https://github.com/aurateam2026/AURA)] [[Model](https://huggingface.co/aurateam/AURA)]
@@ -71,4 +73,4 @@ GPA: 3.63/4.0
 
 - Runmin Cong, Yuchen Guan, **Jinpeng Chen†**, Wei Zhang, Yao Zhao, and Sam Kwong, “SDDNet: Style-guided Dual-layer Disentanglement Network for Shadow Detection,” *ACM MM*, 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612482)] [[Code](https://github.com/rmcong/SDDNet_ACMMM23)]   
   
-(\*Co-first Author; †Corresponding Author)
+(\*Co-first Author; †Corresponding Author; ‡Project Lead)
